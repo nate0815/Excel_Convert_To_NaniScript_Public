@@ -2,7 +2,7 @@ import os
 import pandas as pd
 import re
 
-FINAL_COMMAND = "@stopAvg"
+FINAL_COMMAND = "@stop"
 
 # Switch to the current .py path
 script_dir = os.path.dirname(os.path.abspath(__file__))
